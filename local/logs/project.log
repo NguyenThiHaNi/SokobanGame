@@ -1,73 +1,73 @@
-2021-05-17T02:41:36.106Z - normal: Load ~/.CocosCreator/settings.json
-2021-05-17T02:41:36.183Z - normal: Initializing Asset Database
-2021-05-17T02:41:36.185Z - normal: checking language setting...
-2021-05-17T02:41:36.185Z - normal: Language: en
-2021-05-17T02:41:37.113Z - success: preview server running at http://localhost:7456
-2021-05-17T02:41:37.129Z - success: protocol editor-framework registered
-2021-05-17T02:41:37.129Z - success: protocol app registered
-2021-05-17T02:41:37.130Z - success: protocol theme registered
-2021-05-17T02:41:37.130Z - success: protocol packages registered
-2021-05-17T02:41:37.130Z - success: protocol uuid registerred
-2021-05-17T02:41:37.131Z - success: protocol db registerred
-2021-05-17T02:41:37.131Z - success: protocol thumbnail registerred
-2021-05-17T02:41:37.131Z - success: protocol unpack registerred
-2021-05-17T02:41:37.131Z - success: protocol disable-commonjs registerred
-2021-05-17T02:41:38.541Z - normal: connected!
-2021-05-17T02:41:38.544Z - normal: Check project /Users/gemi/SokobanGame
-2021-05-17T02:41:38.547Z - normal: Initializing project /Users/gemi/SokobanGame
-2021-05-17T02:41:39.113Z - normal: Initializing Cocos2d
-2021-05-17T02:41:40.197Z - normal: Initializing engine extends
-2021-05-17T02:41:40.234Z - success: alipay-adapter loaded
-2021-05-17T02:41:40.243Z - success: asset-db-debugger loaded
-2021-05-17T02:41:40.245Z - success: baidu-adapter loaded
-2021-05-17T02:41:40.247Z - success: color-picker loaded
-2021-05-17T02:41:40.537Z - success: fb-audience-network loaded
-2021-05-17T02:41:40.814Z - success: fb-live-stream loaded
-2021-05-17T02:41:40.821Z - success: google-play-instant loaded
-2021-05-17T02:41:40.834Z - success: huawei-runtime loaded
-2021-05-17T02:41:41.329Z - success: cpk-publish loaded
-2021-05-17T02:41:41.331Z - success: jsb-adapter loaded
-2021-05-17T02:41:41.339Z - success: oppo-runtime loaded
-2021-05-17T02:41:41.346Z - success: package-manager loaded
-2021-05-17T02:41:41.559Z - success: qqplay-adapter loaded
-2021-05-17T02:41:41.562Z - success: runtime-dev-tools loaded
-2021-05-17T02:41:41.568Z - success: sdkbox loaded
-2021-05-17T02:41:41.576Z - success: tester loaded
-2021-05-17T02:41:41.581Z - success: ui-kit-preview-extra loaded
-2021-05-17T02:41:41.587Z - success: ui-kit-preview loaded
-2021-05-17T02:41:41.593Z - success: ui-kit loaded
-2021-05-17T02:41:41.602Z - success: vivo-runtime loaded
-2021-05-17T02:41:41.604Z - success: weapp-adapter loaded
-2021-05-17T02:41:41.605Z - success: xiaomi-adapter loaded
-2021-05-17T02:41:41.610Z - success: alipay-minigame loaded
-2021-05-17T02:41:41.661Z - success: assets loaded
-2021-05-17T02:41:41.665Z - success: builder loaded
-2021-05-17T02:41:42.032Z - success: cocos-services loaded
-2021-05-17T02:41:42.041Z - success: console loaded
-2021-05-17T02:41:42.083Z - success: fb-instant-games loaded
-2021-05-17T02:41:42.089Z - success: game-window loaded
-2021-05-17T02:41:42.091Z - success: google-instant-games loaded
-2021-05-17T02:41:42.098Z - success: hierarchy loaded
-2021-05-17T02:41:42.103Z - success: inspector loaded
-2021-05-17T02:41:42.108Z - success: keystore loaded
-2021-05-17T02:41:42.116Z - success: node-library loaded
-2021-05-17T02:41:42.119Z - success: package-asset loaded
-2021-05-17T02:41:42.121Z - success: preferences loaded
-2021-05-17T02:41:42.126Z - success: project-exporter loaded
-2021-05-17T02:41:42.134Z - success: project-importer loaded
-2021-05-17T02:41:42.139Z - success: project-settings loaded
-2021-05-17T02:41:42.147Z - success: scene loaded
-2021-05-17T02:41:42.149Z - success: simulator-debugger loaded
-2021-05-17T02:41:42.151Z - success: sprite-editor loaded
-2021-05-17T02:41:42.161Z - success: store loaded
-2021-05-17T02:41:42.172Z - success: timeline loaded
-2021-05-17T02:41:42.179Z - success: xiaomi-runtime loaded
-2021-05-17T02:41:43.622Z - normal: Loading packages
-2021-05-17T02:41:43.628Z - normal: Watching packages
-2021-05-17T02:41:43.775Z - normal: Run Application
-2021-05-17T02:41:47.301Z - info: Cocos Services load base data!
-2021-05-17T02:46:55.692Z - normal: Start building with options : {
-  "actualPlatform": "web-mobile",
+2021-05-17T03:23:06.678Z - normal: Load ~/.CocosCreator/settings.json
+2021-05-17T03:23:06.741Z - normal: Initializing Asset Database
+2021-05-17T03:23:06.744Z - normal: checking language setting...
+2021-05-17T03:23:06.744Z - normal: Language: en
+2021-05-17T03:23:07.600Z - success: preview server running at http://localhost:7456
+2021-05-17T03:23:07.614Z - success: protocol editor-framework registered
+2021-05-17T03:23:07.615Z - success: protocol app registered
+2021-05-17T03:23:07.615Z - success: protocol theme registered
+2021-05-17T03:23:07.615Z - success: protocol packages registered
+2021-05-17T03:23:07.615Z - success: protocol uuid registerred
+2021-05-17T03:23:07.615Z - success: protocol db registerred
+2021-05-17T03:23:07.615Z - success: protocol thumbnail registerred
+2021-05-17T03:23:07.615Z - success: protocol unpack registerred
+2021-05-17T03:23:07.615Z - success: protocol disable-commonjs registerred
+2021-05-17T03:23:08.021Z - normal: connected!
+2021-05-17T03:23:08.023Z - normal: Check project /Users/gemi/SokobanGame
+2021-05-17T03:23:08.026Z - normal: Initializing project /Users/gemi/SokobanGame
+2021-05-17T03:23:08.436Z - normal: Initializing Cocos2d
+2021-05-17T03:23:09.004Z - normal: Initializing engine extends
+2021-05-17T03:23:09.020Z - success: alipay-adapter loaded
+2021-05-17T03:23:09.026Z - success: asset-db-debugger loaded
+2021-05-17T03:23:09.028Z - success: baidu-adapter loaded
+2021-05-17T03:23:09.031Z - success: color-picker loaded
+2021-05-17T03:23:09.183Z - success: fb-audience-network loaded
+2021-05-17T03:23:09.244Z - success: fb-live-stream loaded
+2021-05-17T03:23:09.248Z - success: google-play-instant loaded
+2021-05-17T03:23:09.261Z - success: huawei-runtime loaded
+2021-05-17T03:23:09.523Z - success: cpk-publish loaded
+2021-05-17T03:23:09.525Z - success: jsb-adapter loaded
+2021-05-17T03:23:09.532Z - success: oppo-runtime loaded
+2021-05-17T03:23:09.540Z - success: package-manager loaded
+2021-05-17T03:23:09.725Z - success: qqplay-adapter loaded
+2021-05-17T03:23:09.729Z - success: runtime-dev-tools loaded
+2021-05-17T03:23:09.737Z - success: sdkbox loaded
+2021-05-17T03:23:09.744Z - success: tester loaded
+2021-05-17T03:23:09.750Z - success: ui-kit-preview-extra loaded
+2021-05-17T03:23:09.755Z - success: ui-kit-preview loaded
+2021-05-17T03:23:09.762Z - success: ui-kit loaded
+2021-05-17T03:23:09.772Z - success: vivo-runtime loaded
+2021-05-17T03:23:09.774Z - success: weapp-adapter loaded
+2021-05-17T03:23:09.777Z - success: xiaomi-adapter loaded
+2021-05-17T03:23:09.782Z - success: alipay-minigame loaded
+2021-05-17T03:23:09.832Z - success: assets loaded
+2021-05-17T03:23:09.835Z - success: builder loaded
+2021-05-17T03:23:10.068Z - success: cocos-services loaded
+2021-05-17T03:23:10.075Z - success: console loaded
+2021-05-17T03:23:10.106Z - success: fb-instant-games loaded
+2021-05-17T03:23:10.111Z - success: game-window loaded
+2021-05-17T03:23:10.114Z - success: google-instant-games loaded
+2021-05-17T03:23:10.119Z - success: hierarchy loaded
+2021-05-17T03:23:10.125Z - success: inspector loaded
+2021-05-17T03:23:10.126Z - success: keystore loaded
+2021-05-17T03:23:10.133Z - success: node-library loaded
+2021-05-17T03:23:10.135Z - success: package-asset loaded
+2021-05-17T03:23:10.138Z - success: preferences loaded
+2021-05-17T03:23:10.142Z - success: project-exporter loaded
+2021-05-17T03:23:10.149Z - success: project-importer loaded
+2021-05-17T03:23:10.154Z - success: project-settings loaded
+2021-05-17T03:23:10.160Z - success: scene loaded
+2021-05-17T03:23:10.161Z - success: simulator-debugger loaded
+2021-05-17T03:23:10.164Z - success: sprite-editor loaded
+2021-05-17T03:23:10.170Z - success: store loaded
+2021-05-17T03:23:10.183Z - success: timeline loaded
+2021-05-17T03:23:10.188Z - success: xiaomi-runtime loaded
+2021-05-17T03:23:11.150Z - normal: Loading packages
+2021-05-17T03:23:11.155Z - normal: Watching packages
+2021-05-17T03:23:11.262Z - normal: Run Application
+2021-05-17T03:23:14.861Z - info: Cocos Services load base data!
+2021-05-17T03:26:02.981Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
   "android-instant": {
     "REMOTE_SERVER_ROOT": "",
     "host": "",
@@ -87,7 +87,7 @@
   },
   "buildPath": "/Users/gemi/SokobanGame/build",
   "debug": false,
-  "dest": "/Users/gemi/SokobanGame/build/web-mobile",
+  "dest": "/Users/gemi/SokobanGame/build/web-desktop",
   "embedWebDebugger": false,
   "encryptJs": true,
   "excludeScenes": [],
@@ -106,9 +106,9 @@
     "upsideDown": false
   },
   "packageName": "org.cocos2d.SokobanGame",
-  "platform": "web-mobile",
-  "previewHeight": "720",
-  "previewWidth": "1280",
+  "platform": "web-desktop",
+  "previewHeight": 1280,
+  "previewWidth": 720,
   "qqplay": {
     "REMOTE_SERVER_ROOT": "",
     "orientation": "portrait",
@@ -137,105 +137,18 @@
   "projectName": "SokobanGame",
   "debugBuildWorker": false
 }
-2021-05-17T02:46:55.697Z - normal: Building /Users/gemi/SokobanGame
-2021-05-17T02:46:55.697Z - normal: Destination /Users/gemi/SokobanGame/build/web-mobile
-2021-05-17T02:46:55.858Z - normal: Delete /Users/gemi/SokobanGame/build/web-mobile/subpackages/**/*,/Users/gemi/SokobanGame/build/web-mobile/**/*
-2021-05-17T02:47:56.986Z - normal: Start building assets
-2021-05-17T02:47:56.988Z - normal: Start spawn build-worker
-2021-05-17T02:47:57.641Z - normal: Finish spawn build-worker
-2021-05-17T02:47:57.641Z - normal: Start init build-worker
-2021-05-17T02:48:00.848Z - normal: Finish init build-worker
-2021-05-17T02:48:00.848Z - normal: Start build-assets in worker
-2021-05-17T02:48:01.560Z - normal: Finish build-assets in worker
-2021-05-17T02:48:01.574Z - normal: Finish building assets
-2021-05-17T02:48:01.607Z - normal: Start building plugin scripts
-2021-05-17T02:48:01.684Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-05-17T02:48:01.703Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
-2021-05-17T02:48:01.733Z - normal: Built to "/Users/gemi/SokobanGame/build/web-mobile" successfully
-2021-05-17T02:51:17.201Z - normal: Start building with options : {
-  "actualPlatform": "web-mobile",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/gemi/SokobanGame/build",
-  "debug": false,
-  "dest": "/Users/gemi/SokobanGame/build/web-mobile",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.SokobanGame",
-  "platform": "web-mobile",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "04ef3019-186c-4103-90a7-361601de92ec"
-  ],
-  "sourceMaps": false,
-  "startScene": "04ef3019-186c-4103-90a7-361601de92ec",
-  "template": "link",
-  "title": "SokobanGame",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "orientation": "portrait",
-    "separate_engine": false,
-    "subContext": ""
-  },
-  "xxteaKey": "4ec6bf5d-e2bc-49",
-  "zipCompressJs": true,
-  "project": "/Users/gemi/SokobanGame",
-  "projectName": "SokobanGame",
-  "debugBuildWorker": false
-}
-2021-05-17T02:51:17.207Z - normal: Building /Users/gemi/SokobanGame
-2021-05-17T02:51:17.207Z - normal: Destination /Users/gemi/SokobanGame/build/web-mobile
-2021-05-17T02:51:17.210Z - normal: Delete /Users/gemi/SokobanGame/build/web-mobile/subpackages/**/*,/Users/gemi/SokobanGame/build/web-mobile/**/*
-2021-05-17T02:51:19.246Z - normal: Start building assets
-2021-05-17T02:51:19.246Z - normal: Start spawn build-worker
-2021-05-17T02:51:19.994Z - normal: Finish spawn build-worker
-2021-05-17T02:51:19.995Z - normal: Start init build-worker
-2021-05-17T02:51:23.242Z - normal: Finish init build-worker
-2021-05-17T02:51:23.243Z - normal: Start build-assets in worker
-2021-05-17T02:51:23.807Z - normal: Finish build-assets in worker
-2021-05-17T02:51:23.820Z - normal: Finish building assets
-2021-05-17T02:51:23.846Z - normal: Start building plugin scripts
-2021-05-17T02:51:23.955Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2021-05-17T02:51:23.986Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
-2021-05-17T02:51:24.019Z - normal: Built to "/Users/gemi/SokobanGame/build/web-mobile" successfully
-2021-05-17T02:54:33.168Z - info: shutdown preview server
+2021-05-17T03:26:02.988Z - normal: Building /Users/gemi/SokobanGame
+2021-05-17T03:26:02.988Z - normal: Destination /Users/gemi/SokobanGame/build/web-desktop
+2021-05-17T03:26:03.139Z - normal: Delete /Users/gemi/SokobanGame/build/web-desktop/subpackages/**/*,/Users/gemi/SokobanGame/build/web-desktop/**/*
+2021-05-17T03:26:05.645Z - normal: Start building assets
+2021-05-17T03:26:05.645Z - normal: Start spawn build-worker
+2021-05-17T03:26:06.322Z - normal: Finish spawn build-worker
+2021-05-17T03:26:06.322Z - normal: Start init build-worker
+2021-05-17T03:26:09.279Z - normal: Finish init build-worker
+2021-05-17T03:26:09.279Z - normal: Start build-assets in worker
+2021-05-17T03:26:09.844Z - normal: Finish build-assets in worker
+2021-05-17T03:26:09.847Z - normal: Finish building assets
+2021-05-17T03:26:09.864Z - normal: Start building plugin scripts
+2021-05-17T03:26:09.909Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2021-05-17T03:26:09.923Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2021-05-17T03:26:09.961Z - normal: Built to "/Users/gemi/SokobanGame/build/web-desktop" successfully
